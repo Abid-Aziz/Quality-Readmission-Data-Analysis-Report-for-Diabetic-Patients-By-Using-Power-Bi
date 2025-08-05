@@ -13,10 +13,10 @@ This project presents a healthcare dashboard built in Power BI using a dataset o
 To support the Quality & Patient Safety Department by identifying high-risk groups and improving care delivery using visual analytics.
 
 ## 🗂️ Files Included
-- `healthcare.pbix` – Power BI Dashboard file
+- `model_view.png` – Data model screenshot
 - `diabetic_data.csv` – Source dataset
 - `walkthrough.pdf` – Project overview and explanation
-- `model_view.png` – Data model screenshot
+- 
 
 ## 🛠 Tools Used
 - Power BI Desktop
