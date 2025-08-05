@@ -14,10 +14,10 @@ To support the Quality & Patient Safety Department by identifying high-risk grou
 
 ## 🗂️ Files Included
 - `model_view.png` – Data model screenshot
-- `Quality & Readmission Data Analysis Report for diabetic patient.pdf`
+- `Quality & Readmission Data Analysis Report for diabetic patient.pdf`- Project description
 - `diabetic_data.csv` – Source dataset
 - `healthcare.pbix` - Dasboard
-- `walkthrough.pdf` – Project overview and explanation
+- `healthcare.pdf` – Dasboard pdf file
 - 
 
 ## 🛠 Tools Used
